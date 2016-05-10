@@ -3,11 +3,12 @@ radio button widget
 
 ###Require:``
 
-Jquery Library
+[Jquery Library](https://jquery.com/)
+
 
 ###Usage :
 
-in htlm file please insert this code in the '<head>' :
+in htlm file please insert this code in the head :
 
 ```html
     <link rel="stylesheet" href="css/custom_radio.css" />
