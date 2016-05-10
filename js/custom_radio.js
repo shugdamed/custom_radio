@@ -18,9 +18,9 @@ $(function(){
     });
 
     //Vérif saisie
-    $('#btn').click(function(){
-       console.log($('input[name=choix]:checked').val())
-       console.log($('input[name=sex]:checked').val())
-    });
+   /* $('#btn').click(function(){
+       console.log($('input[name=choix]:checked').val());
+       console.log($('input[name=sex]:checked').val());
+    });*/
 
 });//fin listener de base
